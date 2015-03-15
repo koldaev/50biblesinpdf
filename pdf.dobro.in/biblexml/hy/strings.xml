@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"HYBIBLE"</string>
+    <string name="menu_settings">"Կառավարում"</string>
+    
+    <string name="language">"hy"</string>
+    
+	<string name="savingbook">"Գիրքը պահպանված"</string>
+	<string name="biblename">"ԱՍՏՈՒԱԾԱՇՈՒՆՉ"</string>
+	<string name="loadfontsize">"Բեռնված Տառատեսակի չափը"</string>
+	<string name="defaultfontsize">"Բառը"</string>
+	<string name="newtestament">"ՆՈՐ ԿՏԱԿԱՐԱՆ"</string>
+	<string name="oldtestament">"ՀԻՆ ԿՏԱԿԱՐԱՆ"</string>
+	<string name="chapter">"Գլուխ"</string>
+	<string name="psalm">"Սաղմոս"</string>
+	<string name="chapterchang">"Ընտրել գլուխը"</string>
+	<string name="savebookmark">"Պահպանել այս էջը"</string>
+	<string name="loadbookmark">"Բեռնել էջը"</string>
+	<string name="savechapter">"Պահել գլուխը"</string>
+	<string name="savebook">"Պահել աշխատանքային տետրը"</string>
+	<string name="savebase">"Պահպանեք բազան"</string>
+	<string name="smallfont">"Փոքր Տառատեսակի"</string>
+	<string name="bigfont">"Նոր"</string>
+	<string name="exportprocess">"Արտահանվում է. Txt Խնդրում ենք սպասել"</string>
+	<string name="newfontsize">"Նոր որոնում"</string>
+	<string name="savingbookmark">"Փոխանցել փրկել"</string>
+	<string name="savingbase">"SQLite տվյալների բազա պահվում են"</string>
+	<string name="savingtext">"The տեքստը պահվում"</string>
+	<string name="enterword">"Մուտքագրեք որոնվող տերմինը"</string>
+	
+	<string name="findprocess">"Փնտրող Խնդրում ենք սպասել"</string>
+	<string name="findofword">"Բառի որոնում"</string>
+	<string name="findresults">"Որոնման արդյունքները"</string>
+	<string name="matches">"հանդիպումները"</string>
+	<string name="poem">"Բանաստեղծություն"</string>
+	<string name="loadprocess">"Բեռնվում Խնդրում ենք սպասել"</string>
+	
+	<string name="searchbutton">"գտնել"</string>
+	<string name="backbutton">"Վերադառնալ"</string>
+	<string name="forwardbutton">"Առաջ"</string>
+	
+	<string name="tosavexml">"Պահպանել BibleXML"</string>
+	<string name="savingxml">"Նոր XML ձեւաչափը"</string>
+</resources>

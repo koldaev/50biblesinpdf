@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"LTBIBLE"</string>
+    <string name="menu_settings">"Nustatymai"</string>
+    
+    <string name="language">"lt"</string>
+    
+	<string name="savingbook">"Darbaknygė įrašoma"</string>
+	<string name="biblename">"Biblija"</string>
+	<string name="loadfontsize">"Pakrauti šrifto dydį"</string>
+	<string name="defaultfontsize">"Padidinti šriftą"</string>
+	<string name="newtestament">"Naujasis Testamentas"</string>
+	<string name="oldtestament">"Senasis Testamentas"</string>
+	<string name="chapter">"Skyrius"</string>
+	<string name="psalm">"Psalmė"</string>
+	<string name="chapterchang">"Pasirinkite skyrių"</string>
+	<string name="savebookmark">"Išsaugoti šį puslapį"</string>
+	<string name="loadbookmark">"Atsisiųsti puslapį"</string>
+	<string name="savechapter">"Taupykite skyrių"</string>
+	<string name="savebook">"Įrašykite darbaknygę"</string>
+	<string name="savebase">"Laikyti bazę"</string>
+	<string name="smallfont">"Sumažinti šriftą"</string>
+	<string name="bigfont">"Stambiu šriftu"</string>
+	<string name="exportprocess">"Yra eksportuojami į. Txt Prašome palaukti"</string>
+	<string name="newfontsize">"Naujas šrifto dydį"</string>
+	<string name="savingbookmark">"Pažymėti išsaugotas"</string>
+	<string name="savingbase">"Duomenų bazės SQLite saugomos"</string>
+	<string name="savingtext">"Tekstas yra saugomas"</string>
+	<string name="enterword">"Įveskite paieškos užklausą"</string>
+	
+	<string name="findprocess">"Ieškoma Prašome palaukti"</string>
+	<string name="findofword">"Žodžių paieška"</string>
+	<string name="findresults">"Paieškos rezultatai"</string>
+	<string name="matches">"degtukai"</string>
+	<string name="poem">"Eilėraštis"</string>
+	<string name="loadprocess">"Įkeliama, prašome palaukti ..."</string>
+	
+	<string name="searchbutton">"rasti"</string>
+	<string name="backbutton">"Atgal"</string>
+	<string name="forwardbutton">"Pirmyn"</string>
+	
+	<string name="tosavexml">"Išsaugoti į BibleXML"</string>
+	<string name="savingxml">"Naujas XML formatu"</string>
+</resources>

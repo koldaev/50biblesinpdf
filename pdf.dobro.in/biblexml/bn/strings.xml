@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"BNBIBLE"</string>
+    <string name="menu_settings">"সেটিংস"</string>
+    
+    <string name="language">"স্বীকারোক্তি"</string>
+    
+	<string name="savingbook">"ওয়ার্কবুক সংরক্ষিত হয়"</string>
+	<string name="biblename">"পবিত্র বাইবেল"</string>
+	<string name="loadfontsize">"লোড ফন্টের আকার"</string>
+	<string name="defaultfontsize">"ফন্টের আকার বাড়ান"</string>
+	<string name="newtestament">"নিউ টেস্টামেন্ট"</string>
+	<string name="oldtestament">"ওল্ড টেস্টামেন্ট"</string>
+	<string name="chapter">"অধ্যায়"</string>
+	<string name="psalm">"সাম"</string>
+	<string name="chapterchang">"অধ্যায় নির্বাচন করুন"</string>
+	<string name="savebookmark">"এই পৃষ্ঠাটি সংরক্ষণ করুন"</string>
+	<string name="loadbookmark">"পাতা ডাউনলোড"</string>
+	<string name="savechapter">"অধ্যায় সংরক্ষণ করুন"</string>
+	<string name="savebook">"ওয়ার্কবুক সংরক্ষণ করুন"</string>
+	<string name="savebase">"বেস রাখুন"</string>
+	<string name="smallfont">"ছোট ফন্ট"</string>
+	<string name="bigfont">"বড় ফন্ট"</string>
+	<string name="exportprocess">"রপ্তানি করা হয়. Txt দয়া করে অপেক্ষা করো"</string>
+	<string name="newfontsize">"এক্সপ্লোর পরিচালনা ফন্টের আকার"</string>
+	<string name="savingbookmark">"সংরক্ষিত বুকমার্ক করুন"</string>
+	<string name="savingbase">"SQLite ডাটাবেসের মধ্যে সংরক্ষিত"</string>
+	<string name="savingtext">"টেক্সট সংরক্ষণ করা হয়"</string>
+	<string name="enterword">"একটি অনুসন্ধান শব্দ লিখুন"</string>
+	
+	<string name="findprocess">"অনুগ্রহ করে অপেক্ষা করুন অনুসন্ধান"</string>
+	<string name="findofword">"শব্দ অনুসন্ধান"</string>
+	<string name="findresults">"অনুসন্ধান ফলাফল"</string>
+	<string name="matches">"ম্যাচ"</string>
+	<string name="poem">"কবিতা"</string>
+	<string name="loadprocess">"লোড হচ্ছে. অনুগ্রহ করে অপেক্ষা করুন"</string>
+	
+	<string name="searchbutton">"খুঁজুন"</string>
+	<string name="backbutton">"পিছনে"</string>
+	<string name="forwardbutton">"ফরোয়ার্ড"</string>
+	
+	<string name="tosavexml">"BibleXML সংরক্ষণ করুন"</string>
+	<string name="savingxml">"এক্সপ্লোর পরিচালনা XML বিন্যাসে"</string>
+</resources>

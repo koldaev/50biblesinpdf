@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">DABIBLE</string>
+    <string name="menu_settings"></string>
+    
+    <string name="language">da</string>
+    
+	<string name="savingbook"></string>
+	<string name="biblename">Bibelen</string>
+	<string name="loadfontsize"></string>
+	<string name="defaultfontsize"></string>
+	<string name="newtestament">Det Nye Testamente</string>
+	<string name="oldtestament">Det Gamle Testamente</string>
+	<string name="chapter">Kapitel</string>
+	<string name="psalm">salme</string>
+	<string name="chapterchang"></string>
+	<string name="savebookmark"></string>
+	<string name="loadbookmark"></string>
+	<string name="savechapter"></string>
+	<string name="savebook"></string>
+	<string name="savebase"></string>
+	<string name="smallfont"></string>
+	<string name="bigfont"></string>
+	<string name="exportprocess"></string>
+	<string name="newfontsize">New font size</string>
+	<string name="savingbookmark"></string>
+	<string name="savingbase"></string>
+	<string name="savingtext"></string>
+	<string name="enterword"></string>
+	
+	<string name="findprocess"></string>
+	<string name="findofword"></string>
+	<string name="findresults"></string>
+	<string name="matches"></string>
+	<string name="poem">digt</string>
+	<string name="loadprocess"></string>
+	
+	<string name="searchbutton">finde</string>
+	<string name="backbutton"></string>
+	<string name="forwardbutton"></string>
+	
+	<string name="tosavexml"></string>
+	<string name="savingxml"></string>
+</resources>

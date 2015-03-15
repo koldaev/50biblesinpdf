@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"FABIBLE"</string>
+    <string name="menu_settings">"تنظیمات"</string>
+    
+    <string name="language">"fa"</string>
+    
+	<string name="savingbook">"کارنامه ذخیره شده است"</string>
+	<string name="biblename">"کتاب مقدس"</string>
+	<string name="loadfontsize">"اندازه فونت جهتدار"</string>
+	<string name="defaultfontsize">"افزایش اندازه فونت ها"</string>
+	<string name="newtestament">"عهد جديد"</string>
+	<string name="oldtestament">"عهد قديم"</string>
+	<string name="chapter">"فصل"</string>
+	<string name="psalm">"مزمور"</string>
+	<string name="chapterchang">"انتخاب فصل"</string>
+	<string name="savebookmark">"ذخیره سازی این صفحه"</string>
+	<string name="loadbookmark">"دانلود"</string>
+	<string name="savechapter">"ذخیره فصل"</string>
+	<string name="savebook">"ذخیره کارنامه"</string>
+	<string name="savebase">"نگه داشتن پایه"</string>
+	<string name="smallfont">"کوچکتر فونت"</string>
+	<string name="bigfont">"قلم بزرگ"</string>
+	<string name="exportprocess">"صادر می شود. کلیپ برد چند منظوره لطفا صبر کنید"</string>
+	<string name="newfontsize">"اندازه فونت جدید"</string>
+	<string name="savingbookmark">"نشانی ذخیره شده"</string>
+	<string name="savingbase">"پایگاه داده SQLite ذخیره شده"</string>
+	<string name="savingtext">"متن در آن ذخیره می شود"</string>
+	<string name="enterword">"یک عبارت جستجو را وارد کنید"</string>
+	
+	<string name="findprocess">"جستجو لطفا صبر کنید"</string>
+	<string name="findofword">"جستجو کلمه"</string>
+	<string name="findresults">"نتایج جستجو"</string>
+	<string name="matches">"کبریت"</string>
+	<string name="poem">"شعر"</string>
+	<string name="loadprocess">"در حال بارگذاری لطفا صبر"</string>
+	
+	<string name="searchbutton">"جستجو"</string>
+	<string name="backbutton">"بازگشت"</string>
+	<string name="forwardbutton">"جلو"</string>
+	
+	<string name="tosavexml">"ذخیره BibleXML"</string>
+	<string name="savingxml">"فرمت جدید XML"</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"SWBIBLE"</string>
+    <string name="menu_settings">"Mazingira"</string>
+    
+    <string name="language">"sw"</string>
+    
+	<string name="savingbook">"Kitabu ni kuokolewa"</string>
+	<string name="biblename">"Biblia Takatifu"</string>
+	<string name="loadfontsize">"Kubeba fonti"</string>
+	<string name="defaultfontsize">"Kuongeza fonti"</string>
+	<string name="newtestament">"Agano Jipya"</string>
+	<string name="oldtestament">"Agano la Kale"</string>
+	<string name="chapter">"Sura ya"</string>
+	<string name="psalm">"Zaburi"</string>
+	<string name="chapterchang">"Kuchagua sura"</string>
+	<string name="savebookmark">"Ila hii ukurasa"</string>
+	<string name="loadbookmark">"Download ukurasa"</string>
+	<string name="savechapter">"Ila sura"</string>
+	<string name="savebook">"Ila kitabu"</string>
+	<string name="savebase">"Kuweka wigo"</string>
+	<string name="smallfont">"Ndogo font"</string>
+	<string name="bigfont">"Kubwa font"</string>
+	<string name="exportprocess">"Ni nje ya. Txt Tafadhali subiri"</string>
+	<string name="newfontsize">"Mpya fonti"</string>
+	<string name="savingbookmark">"Bookmark kuokolewa"</string>
+	<string name="savingbase">"SQLite database kuhifadhiwa katika"</string>
+	<string name="savingtext">"Nakala ni kuhifadhiwa katika"</string>
+	<string name="enterword">"Kuingia muda wa kutafuta"</string>
+	
+	<string name="findprocess">"Kutafuta Tafadhali subiri"</string>
+	<string name="findofword">"Neno Tafuta"</string>
+	<string name="findresults">"Matokeo"</string>
+	<string name="matches">"mechi"</string>
+	<string name="poem">"Shairi"</string>
+	<string name="loadprocess">"Upakiaji Tafadhali subiri"</string>
+	
+	<string name="searchbutton">"kupata"</string>
+	<string name="backbutton">"Nyuma"</string>
+	<string name="forwardbutton">"Mbele"</string>
+	
+	<string name="tosavexml">"Ila kwa BibleXML"</string>
+	<string name="savingxml">"mpya XML format"</string>
+</resources>

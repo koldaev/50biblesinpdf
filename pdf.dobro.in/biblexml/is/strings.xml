@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"ISBIBLE"</string>
+    <string name="menu_settings">"Stillingar"</string>
+    
+    <string name="language">"is"</string>
+    
+	<string name="savingbook">"Vinnubók er vistað"</string>
+	<string name="biblename">"Biblían"</string>
+	<string name="loadfontsize">"Hlaðinn leturstærð"</string>
+	<string name="defaultfontsize">"Auka leturstærð"</string>
+	<string name="newtestament">"Nýja Testamentið"</string>
+	<string name="oldtestament">"Gamla Testamentið"</string>
+	<string name="chapter">"Kafli"</string>
+	<string name="psalm">"Sálmarnir"</string>
+	<string name="chapterchang">"Veldu kafla"</string>
+	<string name="savebookmark">"Vista þessa síðu"</string>
+	<string name="loadbookmark">"Sækja síðuna"</string>
+	<string name="savechapter">"Vista kafla"</string>
+	<string name="savebook">"Vista vinnubókina"</string>
+	<string name="savebase">"Halda stöð"</string>
+	<string name="smallfont">"Minna letur"</string>
+	<string name="bigfont">"Stórt letur"</string>
+	<string name="exportprocess">"Er flutt til. Txt Vinsamlegast bíðið"</string>
+	<string name="newfontsize">"New leturstærð"</string>
+	<string name="savingbookmark">"Bookmark vistuð"</string>
+	<string name="savingbase">"SQLite gagnasafn geymt í"</string>
+	<string name="savingtext">"Textinn er geymt í"</string>
+	<string name="enterword">"Sláðu inn leitarorð"</string>
+	
+	<string name="findprocess">"Leita Vinsamlegast bíðið"</string>
+	<string name="findofword">"Orðaleit"</string>
+	<string name="findresults">"Leitarniðurstöður"</string>
+	<string name="matches">"samsvaranir"</string>
+	<string name="poem">"Ljóð"</string>
+	<string name="loadprocess">"Hleðsla Vinsamlegast bíðið"</string>
+	
+	<string name="searchbutton">"Leita"</string>
+	<string name="backbutton">"Til baka"</string>
+	<string name="forwardbutton">"Fram"</string>
+	
+	<string name="tosavexml">"Vista til BibleXML"</string>
+	<string name="savingxml">"Hin nýja XML sniði"</string>
+</resources>

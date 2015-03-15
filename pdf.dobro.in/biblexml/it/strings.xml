@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">ITBIBLE</string>
+    <string name="menu_settings">Impostazioni</string>
+    
+    <string name="language">it</string>
+    
+	<string name="savingbook">Cartella di lavoro viene salvata</string>
+	<string name="biblename">Bibbia</string>
+	<string name="loadfontsize">Dimensione carattere Loaded</string>
+	<string name="defaultfontsize">Aumenta la dimensione del carattere</string>
+	<string name="newtestament">Nuovo Testamento</string>
+	<string name="oldtestament">Antico Testamento</string>
+	<string name="chapter">Capitolo</string>
+	<string name="psalm">Salmo</string>
+	<string name="chapterchang">Seleziona capitolo</string>
+	<string name="savebookmark">Salva questa pagina</string>
+	<string name="loadbookmark">Scarica la pagina</string>
+	<string name="savechapter">Salva capitolo</string>
+	<string name="savebook">Salvare la cartella di lavoro</string>
+	<string name="savebase">Tenere la base</string>
+	<string name="smallfont">Caratteri più piccoli</string>
+	<string name="bigfont">Caratteri grandi</string>
+	<string name="exportprocess">Viene esportato. Txt Per favore di attesa</string>
+	<string name="newfontsize">Dimensione carattere New</string>
+	<string name="savingbookmark">Bookmark salvato</string>
+	<string name="savingbase">Memorizzati in database SQLite</string>
+	<string name="savingtext">Il testo viene memorizzato in</string>
+	<string name="enterword">Inserire un termine di ricerca</string>
+	
+	<string name="findprocess">Ricerca Per favore attendere</string>
+	<string name="findofword">Parola di ricerca</string>
+	<string name="findresults">Risultati della ricerca</string>
+	<string name="matches">fiammiferi</string>
+	<string name="poem">versetto</string>
+	<string name="loadprocess">Caricamento in corso Per favore attendere</string>
+	
+	<string name="searchbutton">Trovare</string>
+	<string name="backbutton">Indietro</string>
+	<string name="forwardbutton">Avanti</string>
+	
+	<string name="tosavexml">Salva BibleXML</string>
+	<string name="savingxml">Il nuovo formato XML</string>
+</resources>

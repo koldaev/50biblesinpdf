@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"NOBIBLE"</string>
+    <string name="menu_settings">"Innstillinger"</string>
+    
+    <string name="language">"no"</string>
+    
+	<string name="savingbook">"Arbeidsboken lagres"</string>
+	<string name="biblename">"Bibelen"</string>
+	<string name="loadfontsize">"Laste skriftstørrelsen"</string>
+	<string name="defaultfontsize">"Øke skriftstørrelsen"</string>
+	<string name="newtestament">"Det nye testamentet"</string>
+	<string name="oldtestament">"Det gamle testamentet"</string>
+	<string name="chapter">"Kapittel"</string>
+	<string name="psalm">"Salme"</string>
+	<string name="chapterchang">"Velg kapittel"</string>
+	<string name="savebookmark">"Lagre denne siden"</string>
+	<string name="loadbookmark">"Last siden"</string>
+	<string name="savechapter">"Lagre kapittel"</string>
+	<string name="savebook">"Lagre arbeidsboken"</string>
+	<string name="savebase">"Hold basen"</string>
+	<string name="smallfont">"Mindre skrift"</string>
+	<string name="bigfont">"Stor skrift"</string>
+	<string name="exportprocess">"Er eksportert til. Txt Vennligst vent"</string>
+	<string name="newfontsize">"Ny skriftstørrelse"</string>
+	<string name="savingbookmark">"Bokmerk reddet"</string>
+	<string name="savingbase">"SQLite database som er lagret i"</string>
+	<string name="savingtext">"Teksten er lagret i"</string>
+	<string name="enterword">"Skriv inn et søkebegrep"</string>
+	
+	<string name="findprocess">"Søking Vennligst vent"</string>
+	<string name="findofword">"ord finne"</string>
+	<string name="findresults">"Søkeresultater"</string>
+	<string name="matches">"fyrstikker"</string>
+	<string name="poem">"Dikt"</string>
+	<string name="loadprocess">"Loading Vennligst vent"</string>
+	
+	<string name="searchbutton">"finne"</string>
+	<string name="backbutton">"Tilbake"</string>
+	<string name="forwardbutton">"Fremover"</string>
+	
+	<string name="tosavexml">"Lagre BibleXML"</string>
+	<string name="savingxml">"Den nye XML-format"</string>
+</resources>

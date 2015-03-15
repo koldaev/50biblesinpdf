@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"AMBIBLE"</string>
+    <string name="menu_settings">"መቀመጫ"</string>
+    
+    <string name="language">"am"</string>
+    
+	<string name="savingbook">መጽሐፈ አዳነ</string>
+	<string name="biblename">መጽሐፍ ቅዱስ</string>
+	<string name="loadfontsize">ተጫነ ቅርፀ ቁንፊ መጠን</string>
+	<string name="defaultfontsize">ወደቀ ቅርፀ ቁንፊ መጠን</string>
+	<string name="newtestament">ብሉይ ኪዳን</string>
+	<string name="oldtestament">አዲስ ኪዳን</string>
+	<string name="chapter">ምዕራፍ</string>
+	<string name="psalm">መዝሙር</string>
+	<string name="chapterchang">መረጠ ምዕራፍ</string>
+	<string name="savebookmark">አዳነ ገጽ</string>
+	<string name="loadbookmark">ፈጀ ገጽ</string>
+	<string name="savechapter">አዳነ ምዕራፍ</string>
+	<string name="savebook">አዳነ መጽሐፈ</string>
+	<string name="savebase">አዳነ መሰረት</string>
+	<string name="smallfont">ጥቂት ቅርፀ ቁንፊ</string>
+	<string name="bigfont">ወፍራም ቅርፀ ቁንፊ</string>
+	<string name="exportprocess">ውፅዓተ ወደብ ወደ ማደት  እስኪ ቆየ</string>
+	<string name="newfontsize">ብሉይ ቅርፀ ቁንፊ መጠን</string>
+	<string name="savingbookmark">ገጽ አዳነ</string>
+	<string name="savingbase">SQLite ምእላድ ተከማቸ ውስጥ</string>
+	<string name="savingtext">ማደት ተከማቸ ውስጥ</string>
+	<string name="enterword">መግባት ፍለጋ ሥያሜ</string>
+	
+	<string name="findprocess">ፍለጋ እስኪ ቆየ</string>
+	<string name="findofword">ቃል ፍለጋ</string>
+	<string name="findresults">ፍለጋ ፍጻሜ</string>
+	<string name="matches">ፍሬ</string>
+	<string name="poem">ስንኝ</string>
+	<string name="loadprocess">ፈጀ እስኪ ቆየ</string>
+	
+	<string name="searchbutton">ፈልግ</string>
+	<string name="backbutton">ጀርባ</string>
+	<string name="forwardbutton">ተገፋ</string>
+	
+	<string name="tosavexml">አዳነ ወደ BibleXML</string>
+	<string name="savingxml">ብሉይ XML ቅርጸት</string>
+</resources>

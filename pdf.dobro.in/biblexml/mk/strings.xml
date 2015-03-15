@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"MKBIBLE"</string>
+    <string name="menu_settings">"Подесувања"</string>
+    
+    <string name="language">"mk"</string>
+    
+	<string name="savingbook">"Книгата е зачувана"</string>
+	<string name="biblename">"Библија"</string>
+	<string name="loadfontsize">"Натоварени фонтот"</string>
+	<string name="defaultfontsize">"Стандардната големина на фонт"</string>
+	<string name="newtestament">"Нов Завет"</string>
+	<string name="oldtestament">"Стар Завет"</string>
+	<string name="chapter">"Глава"</string>
+	<string name="psalm">"Псалм"</string>
+	<string name="chapterchang">"Изберете поглавје"</string>
+	<string name="savebookmark">"Спаси оваа страница"</string>
+	<string name="loadbookmark">"Преземете страница"</string>
+	<string name="savechapter">"Зачувај поглавје"</string>
+	<string name="savebook">"Спаси работна книга"</string>
+	<string name="savebase">"Задржи на база"</string>
+	<string name="smallfont">"Фонтот"</string>
+	<string name="bigfont">"Фонт повеќе"</string>
+	<string name="exportprocess">"Оди извозот. Txt Ве молиме почекајте"</string>
+	<string name="newfontsize">"Новиот фонтот"</string>
+	<string name="savingbookmark">"страница одржува"</string>
+	<string name="savingbase">"SQLite база на податоци се чуваат во"</string>
+	<string name="savingtext">"Текстот се чуваат во"</string>
+	<string name="enterword">"Внесете термин за пребарување"</string>
+	
+	<string name="findprocess">"Барај во тек Ве молиме почекајте"</string>
+	<string name="findofword">"Зборот за пребарување"</string>
+	<string name="findresults">"Резултати од пребарувањето"</string>
+	<string name="matches">"Натпревари"</string>
+	<string name="poem">"стих"</string>
+	<string name="loadprocess">"Вчитување на Ве молиме почекајте"</string>
+	
+	<string name="searchbutton">"Најди"</string>
+	<string name="backbutton">"Назад"</string>
+	<string name="forwardbutton">"Напред"</string>
+	
+	<string name="tosavexml">"Зачувај BibleXML"</string>
+	<string name="savingxml">"Новиот XML формат"</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"LVBIBLE"</string>
+    <string name="menu_settings">"Iestatījumi"</string>
+    
+    <string name="language">"lv"</string>
+    
+	<string name="savingbook">"Darbgrāmata tiek saglabāta"</string>
+	<string name="biblename">"Bībele"</string>
+	<string name="loadfontsize">"Slodze fonta izmērs"</string>
+	<string name="defaultfontsize">"Palielināt fonta lielumu"</string>
+	<string name="newtestament">"Jaunā derība"</string>
+	<string name="oldtestament">"Vecā derība"</string>
+	<string name="chapter">"Nodaļa"</string>
+	<string name="psalm">"Psalms"</string>
+	<string name="chapterchang">"Izvēlieties nodaļu"</string>
+	<string name="savebookmark">"Saglabāt šo lapu"</string>
+	<string name="loadbookmark">"Lejupielādēt lapu"</string>
+	<string name="savechapter">"Saglabāt nodaļu"</string>
+	<string name="savebook">"Saglabāt darbgrāmatu"</string>
+	<string name="savebase">"Uzglabāt bāzi"</string>
+	<string name="smallfont">"Mazāks fonts"</string>
+	<string name="bigfont">"Liels fonts"</string>
+	<string name="exportprocess">"Tiek eksportēta uz. Txt Lūdzu uzgaidiet"</string>
+	<string name="newfontsize">"Jauna fonta izmērs"</string>
+	<string name="savingbookmark">"Grāmatzīme saglabāts"</string>
+	<string name="savingbase">"SQLite datubāzes glabājas"</string>
+	<string name="savingtext">"Teksts tiek saglabāts"</string>
+	<string name="enterword">"Ievadiet meklēšanas terminu"</string>
+	
+	<string name="findprocess">"Meklējot Lūdzu uzgaidiet"</string>
+	<string name="findofword">"Vārds meklēšana"</string>
+	<string name="findresults">"Meklēšanas rezultāti"</string>
+	<string name="matches">"sērkociņi"</string>
+	<string name="poem">"Dzejolis"</string>
+	<string name="loadprocess">"Iekraušanas Lūdzu uzgaidiet"</string>
+	
+	<string name="searchbutton">"Meklēt"</string>
+	<string name="backbutton">"Atpakaļ"</string>
+	<string name="forwardbutton">"Uz priekšu"</string>
+	
+	<string name="tosavexml">"Saglabāt BibleXML"</string>
+	<string name="savingxml">"Jaunais XML formātā"</string>
+</resources>

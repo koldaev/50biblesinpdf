@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">TAMBIBLE</string>
+    <string name="menu_settings">அமைப்புகள்</string>
+    
+    <string name="language">tam</string>
+    
+	<string name="savingbook">பணிப்புத்தகத்தை சேமிக்கப்படுகிறது</string>
+	<string name="biblename">வேதாகமம்</string>
+	<string name="loadfontsize">ஏற்றப்படும் எழுத்துரு அளவு</string>
+	<string name="defaultfontsize">செய்திகள்</string>
+	<string name="newtestament">புதிய ஏற்பாடு</string>
+	<string name="oldtestament">பழைய ஏற்பாடு</string>
+	<string name="chapter">அத்தியாயம்</string>
+	<string name="psalm">கடவுள் துதி</string>
+	<string name="chapterchang">அத்தியாயம் தேர்வு</string>
+	<string name="savebookmark">இந்த பக்கம் சேமிக்க</string>
+	<string name="loadbookmark">பக்கம் பதிவிறக்க</string>
+	<string name="savechapter">அத்தியாயம் சேமிக்க</string>
+	<string name="savebook">பணி புத்தகத்தை சேமிக்க</string>
+	<string name="savebase">அடிப்படை வைத்து</string>
+	<string name="smallfont">சிறிய எழுத்துரு</string>
+	<string name="bigfont">பெரிய எழுத்துரு</string>
+	<string name="exportprocess">ஏற்றுமதி செய்யப்படுகின்றன. Txt காத்திருக்கவும்</string>
+	<string name="newfontsize">புதிய செய்திகள்</string>
+	<string name="savingbookmark">சேமித்த புக்மார்க்</string>
+	<string name="savingbase">SQLite தரவுத்தளத்தில் சேமிக்கப்படும்</string>
+	<string name="savingtext">உரை சேமிக்கப்படுகிறது</string>
+	<string name="enterword">ஒரு தேடல் சொல்லை உள்ளிட</string>
+	
+	<string name="findprocess">காத்திருக்கவும்</string>
+	<string name="findofword">வார்த்தை தேடல்</string>
+	<string name="findresults">தேடல் முடிவுகள்</string>
+	<string name="matches">ஆட்டங்கள்</string>
+	<string name="poem">கவிதை</string>
+	<string name="loadprocess">காத்திருக்கவும்</string>
+	
+	<string name="searchbutton">தேடு</string>
+	<string name="backbutton">பின் செல்க</string>
+	<string name="forwardbutton">முன்னுரை</string>
+	
+	<string name="tosavexml">BibleXML சேமி</string>
+	<string name="savingxml">புதிய XML வடிவமைப்பில்</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"JAPBIBLE"</string>
+    <string name="menu_settings">"設定"</string>
+    
+    <string name="language">"ja"</string>
+    
+	<string name="savingbook">"ワークブックが保存され"</string>
+	<string name="biblename">"聖書"</string>
+	<string name="loadfontsize">"ロードされているフォントのサイズ"</string>
+	<string name="defaultfontsize">"フォントサイズを大きく"</string>
+	<string name="newtestament">"新約聖書"</string>
+	<string name="oldtestament">"旧約聖書"</string>
+	<string name="chapter">"章"</string>
+	<string name="psalm">"賛美歌"</string>
+	<string name="chapterchang">"チャプターを選択"</string>
+	<string name="savebookmark">"このページを保存"</string>
+	<string name="loadbookmark">"ページをダウンロード"</string>
+	<string name="savechapter">"章を保存"</string>
+	<string name="savebook">"ブックを保存"</string>
+	<string name="savebase">"ベースを保つ"</string>
+	<string name="smallfont">"小さいフォント"</string>
+	<string name="bigfont">"大きいフォント"</string>
+	<string name="exportprocess">"にエクスポートされます。 txtは、しばらくお待ちください"</string>
+	<string name="newfontsize">"新しいフォントサイズ"</string>
+	<string name="savingbookmark">"ブックマークを保存しました。"</string>
+	<string name="savingbase">"に格納されているSQLiteデータベース"</string>
+	<string name="savingtext">"テキストは、次の場所に格納されている"</string>
+	<string name="enterword">"検索用語を入力"</string>
+	
+	<string name="findprocess">"検索しばらくお待ちください"</string>
+	<string name="findofword">"単語検索"</string>
+	<string name="findresults">"検索結果"</string>
+	<string name="matches">"マッチ"</string>
+	<string name="poem">"詩"</string>
+	<string name="loadprocess">"読み込み中です。お待ちください..."</string>
+	
+	<string name="searchbutton">"検索"</string>
+	<string name="backbutton">"バック"</string>
+	<string name="forwardbutton">"転送"</string>
+	
+	<string name="tosavexml">"BibleXMLに保存"</string>
+	<string name="savingxml">"新しいXML形式"</string>
+</resources>

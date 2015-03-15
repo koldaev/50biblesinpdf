@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"HRBIBLE"</string>
+    <string name="menu_settings">"Podešavanja"</string>
+    
+    <string name="language">"hr"</string>
+    
+	<string name="savingbook">"Radna knjiga se sprema"</string>
+	<string name="biblename">"Biblija"</string>
+	<string name="loadfontsize">"Loaded veličinu fonta"</string>
+	<string name="defaultfontsize">"Povećaj veličinu fonta"</string>
+	<string name="newtestament">"Novi zavjet"</string>
+	<string name="oldtestament">"Stari zavjet"</string>
+	<string name="chapter">"Poglavlje"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Odaberite poglavlje"</string>
+	<string name="savebookmark">"Spremi ovu stranicu"</string>
+	<string name="loadbookmark">"Preuzmite stranicu"</string>
+	<string name="savechapter">"Spremi poglavlje"</string>
+	<string name="savebook">"Spremite radnu knjigu"</string>
+	<string name="savebase">"Držite baze"</string>
+	<string name="smallfont">"Smanji font"</string>
+	<string name="bigfont">"Velika slova"</string>
+	<string name="exportprocess">"Je izvozi. TXT Pričekajte"</string>
+	<string name="newfontsize">"Novi veličinu fonta"</string>
+	<string name="savingbookmark">"Bookmark spremaju"</string>
+	<string name="savingbase">"SQLite baze podataka pohranjuju se u"</string>
+	<string name="savingtext">"Tekst je pohranjena u"</string>
+	<string name="enterword">"Unesite pojam za pretraživanje"</string>
+	
+	<string name="findprocess">"Tražim Pričekajte"</string>
+	<string name="findofword">"Riječ Traži"</string>
+	<string name="findresults">"Traženi Rezultati"</string>
+	<string name="matches">"šibice"</string>
+	<string name="poem">"Pjesma"</string>
+	<string name="loadprocess">"Loading Pričekajte"</string>
+	
+	<string name="searchbutton">"Pronađi"</string>
+	<string name="backbutton">"Natrag"</string>
+	<string name="forwardbutton">"Forward"</string>
+	
+	<string name="tosavexml">"Spremi se BibleXML"</string>
+	<string name="savingxml">"Novi XML formatu"</string>
+</resources>

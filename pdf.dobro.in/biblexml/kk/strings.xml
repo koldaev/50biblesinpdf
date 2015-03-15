@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"KKBIBLE"</string>
+    <string name="menu_settings">"сырт пішін"</string>
+    
+    <string name="language">"kk"</string>
+    
+	<string name="savingbook">"кітап сақтау"</string>
+	<string name="biblename">"Киелі Кітап"</string>
+	<string name="loadfontsize">"қазір көлем сөз"</string>
+	<string name="defaultfontsize">"көлем сөз бастан;"</string>
+	<string name="newtestament">"Жаңа келісім"</string>
+	<string name="oldtestament">"Көне келісім"</string>
+	<string name="chapter">"Тарау"</string>
+	<string name="psalm">"діни жыр"</string>
+	<string name="chapterchang">"таңдап алу Тарау"</string>
+	<string name="savebookmark">" бет сақтау"</string>
+	<string name="loadbookmark">"сыйғанша тиеу бет"</string>
+	<string name="savechapter">"сақтау тарау"</string>
+	<string name="savebook">"сақтау кітап"</string>
+	<string name="savebase">"Сақта- база"</string>
+	<string name="smallfont">"Қаріп кіші"</string>
+	<string name="bigfont">"Қаріп неғұрлым"</string>
+	<string name="exportprocess">"Экспорт арада барады .txt Пожалуйста, күте тұр-"</string>
+	<string name="newfontsize">"Қаріптің жаңа өлшемі"</string>
+	<string name="savingbookmark">"Закладка сақта-"</string>
+	<string name="savingbase">"SQLite базасы ара сақта-"</string>
+	<string name="savingtext">"Мәтін ара сақта-"</string>
+	<string name="enterword">"Сөзді ізденіс үшін кіргіз-"</string>
+	
+	<string name="findprocess">"Пожалуйста ізденісі барады, күте тұр-"</string>
+	<string name="findofword">"Сөздің ізденісі"</string>
+	<string name="findresults">"Ізденістің нәтижелері"</string>
+	<string name="matches">"түйіс-"</string>
+	<string name="poem">"тынымдады"</string>
+	<string name="loadprocess">"Пожалуйста тие-барады, күте тұр-"</string>
+	
+	<string name="searchbutton">"іздеу"</string>
+	<string name="backbutton">"Артқа"</string>
+	<string name="forwardbutton">"Алға"</string>
+	
+	<string name="tosavexml">"Ара BibleXML сақта-"</string>
+	<string name="savingxml">"XML жаңа форматы арада"</string>
+</resources>

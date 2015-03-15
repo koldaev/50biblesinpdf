@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"ROBIBLE"</string>
+    <string name="menu_settings">"Setări"</string>
+    
+    <string name="language">"ro"</string>
+    
+	<string name="savingbook">"Registrul de lucru este salvat"</string>
+	<string name="biblename">"Biblia"</string>
+	<string name="loadfontsize">"Loaded dimensiunea fontului"</string>
+	<string name="defaultfontsize">"Mărește dimensiunea fontului"</string>
+	<string name="newtestament">"Noul Testament"</string>
+	<string name="oldtestament">"Vechiul Testament"</string>
+	<string name="chapter">"Capitolul"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Selectați capitol"</string>
+	<string name="savebookmark">"Salvați această pagină"</string>
+	<string name="loadbookmark">"Descărcați pagina"</string>
+	<string name="savechapter">"Salvați capitol"</string>
+	<string name="savebook">"Salvați registrul de lucru"</string>
+	<string name="savebase">"Păstrați de bază"</string>
+	<string name="smallfont">"Mai mic font"</string>
+	<string name="bigfont">"Mare font"</string>
+	<string name="exportprocess">"Este exportat. Txt Va rugam sa asteptati"</string>
+	<string name="newfontsize">"Noul font"</string>
+	<string name="savingbookmark">"pagina salvate"</string>
+	<string name="savingbase">"Baza de date SQLite stocate în"</string>
+	<string name="savingtext">"Textul este stocat în"</string>
+	<string name="enterword">"Introduceți un termen de căutare"</string>
+	
+	<string name="findprocess">"Cauta dupa Va rugam sa asteptati"</string>
+	<string name="findofword">"Cuvânt de căutare"</string>
+	<string name="findresults">"Caută cuvinte"</string>
+	<string name="matches">"meciuri"</string>
+	<string name="poem">"Poezie"</string>
+	<string name="loadprocess">"Loading Va rugam sa asteptati"</string>
+	
+	<string name="searchbutton">"găsi"</string>
+	<string name="backbutton">"Înapoi"</string>
+	<string name="forwardbutton">"Înainte"</string>
+	
+	<string name="tosavexml">"Salvare pentru a BibleXML"</string>
+	<string name="savingxml">"Noul format XML"</string>
+</resources>

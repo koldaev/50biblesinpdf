@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"HUBIBLE"</string>
+    <string name="menu_settings">"Beállítások"</string>
+    
+    <string name="language">"hu"</string>
+    
+	<string name="savingbook">"Munkafüzet mentése"</string>
+	<string name="biblename">"Szent Biblia"</string>
+	<string name="loadfontsize">"betöltése betűméret"</string>
+	<string name="defaultfontsize">"A betűméret növelése"</string>
+	<string name="newtestament">"Újszövetség"</string>
+	<string name="oldtestament">"Ószövetség"</string>
+	<string name="chapter">"fejezet"</string>
+	<string name="psalm">"Zsoltár"</string>
+	<string name="chapterchang">"Fejezet kiválasztása"</string>
+	<string name="savebookmark">"Mentse ezt az oldalt"</string>
+	<string name="loadbookmark">"Töltse le az oldalt"</string>
+	<string name="savechapter">"Mentés fejezet"</string>
+	<string name="savebook">"Mentse a munkafüzetet"</string>
+	<string name="savebase">"Tartsa a bázis"</string>
+	<string name="smallfont">"Kisebb betűméret"</string>
+	<string name="bigfont">"Nagy betû"</string>
+	<string name="exportprocess">"Exportálják. Txt Kérem, várjon"</string>
+	<string name="newfontsize">"Új betűméret"</string>
+	<string name="savingbookmark">"Könyvjelző mentése"</string>
+	<string name="savingbase">"SQLite adatbázisban tárolt"</string>
+	<string name="savingtext">"A szöveg tároljuk"</string>
+	<string name="enterword">"Adja meg egy keresési kifejezést"</string>
+	
+	<string name="findprocess">"Keres Kérem, várjon"</string>
+	<string name="findofword">"Word Search"</string>
+	<string name="findresults">"Search Results"</string>
+	<string name="matches">"eredménnyel."</string>
+	<string name="poem">"Vers"</string>
+	<string name="loadprocess">"Adatok betöltése, kérem várjon."</string>
+	
+	<string name="searchbutton">"talál"</string>
+	<string name="backbutton">"Vissza"</string>
+	<string name="forwardbutton">"Előre"</string>
+	
+	<string name="tosavexml">"Mentés BibleXML"</string>
+	<string name="savingxml">"Az új XML formátum"</string>
+</resources>

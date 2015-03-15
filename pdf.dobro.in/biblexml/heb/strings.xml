@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">HEBBIBLE</string>
+    <string name="menu_settings">הגדרות</string>
+    
+    <string name="language">heb</string>
+    
+	<string name="savingbook">חוברת עבודה נשמרה</string>
+	<string name="biblename">הקודש במקרא</string>
+	<string name="loadfontsize">גודל גופן טעון</string>
+	<string name="defaultfontsize">הגדל את גודל גופן</string>
+	<string name="newtestament">ברית חדשה</string>
+	<string name="oldtestament">תנ \'ך</string>
+	<string name="chapter">ראש</string>
+	<string name="psalm">תהילים</string>
+	<string name="chapterchang">בחר פרק</string>
+	<string name="savebookmark">שמור דף זה</string>
+	<string name="loadbookmark">הורד את הדף</string>
+	<string name="savechapter">שמור פרק</string>
+	<string name="savebook">שמור את חוברת העבודה</string>
+	<string name="savebase">לשמור על הבסיס</string>
+	<string name="smallfont">גופן קטן יותר</string>
+	<string name="bigfont">גופן גדול</string>
+	<string name="exportprocess">מיוצא ל.  אנא המתנת TXT</string>
+	<string name="newfontsize">גודל גופן חדש</string>
+	<string name="savingbookmark">Bookmark הציל</string>
+	<string name="savingbase">מסד נתוני SQLite מאוחסן ב</string>
+	<string name="savingtext">הטקסט מאוחסן ב</string>
+	<string name="enterword">הזן את החיפוש</string>
+	
+	<string name="findprocess">מחפש  לחכות</string>
+	<string name="findofword">חיפוש מילה</string>
+	<string name="findresults">תוצאות חיפוש</string>
+	<string name="matches">גפרורים</string>
+	<string name="poem">פסוק</string>
+	<string name="loadprocess">טוען  לחכות</string>
+	
+	<string name="searchbutton">למצוא</string>
+	<string name="backbutton">בחזרה</string>
+	<string name="forwardbutton">קדימה</string>
+	
+	<string name="tosavexml">שמור לBibleXML</string>
+	<string name="savingxml">פורמט XML החדש</string>
+</resources>

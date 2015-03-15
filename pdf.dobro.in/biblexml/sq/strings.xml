@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"SQBIBLE"</string>
+    <string name="menu_settings">"Opsione"</string>
+    
+    <string name="language">"sq"</string>
+    
+	<string name="savingbook">"Manual është ruajtur"</string>
+	<string name="biblename">"Bibla e Shenjtë"</string>
+	<string name="loadfontsize">"Madhësia Loaded font"</string>
+	<string name="defaultfontsize">"Rrit madhësinë e shkronjave"</string>
+	<string name="newtestament">"Dhjata e Re"</string>
+	<string name="oldtestament">"Dhjata e Vjetër"</string>
+	<string name="chapter">"Kapitull"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Zgjidh kapitull"</string>
+	<string name="savebookmark">"Ruaje këtë faqe"</string>
+	<string name="loadbookmark">"Shkarkoni faqen"</string>
+	<string name="savechapter">"Ruaj kapitull"</string>
+	<string name="savebook">"Ruaj manual"</string>
+	<string name="savebase">"Mbani bazën"</string>
+	<string name="smallfont">"Font më të vogël"</string>
+	<string name="bigfont">"Font më shumë"</string>
+	<string name="exportprocess">"Është eksportuar në. Txt Ju lutem prisni"</string>
+	<string name="newfontsize">"Madhësia New font"</string>
+	<string name="savingbookmark">"Bookmark ruajtur"</string>
+	<string name="savingbase">"SQLite database ruhen në"</string>
+	<string name="savingtext">"Teksti është ruajtur në"</string>
+	<string name="enterword">"Shkruani një term kërkimi"</string>
+	
+	<string name="findprocess">"Searching Ju lutem prisni"</string>
+	<string name="findofword">"Fjalët Kërko"</string>
+	<string name="findresults">"Gjej rezultatet"</string>
+	<string name="matches">"shkrepëse"</string>
+	<string name="poem">"Poemë"</string>
+	<string name="loadprocess">"Ngarkim Ju lutem prisni"</string>
+	
+	<string name="searchbutton">"Gjej"</string>
+	<string name="backbutton">"Prapa"</string>
+	<string name="forwardbutton">"Përpara"</string>
+	
+	<string name="tosavexml">"Ruaj për BibleXML"</string>
+	<string name="savingxml">"Formati i ri XML"</string>
+</resources>

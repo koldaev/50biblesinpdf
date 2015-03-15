@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"ARABIBLE"</string>
+    <string name="menu_settings">"إعدادات"</string>
+    
+    <string name="language">"ARA"</string>
+    
+	<string name="savingbook">"يتم حفظ المصنف"</string>
+	<string name="biblename">"الكتاب المقدس"</string>
+	<string name="loadfontsize">"تحميل حجم الخط"</string>
+	<string name="defaultfontsize">"زيادة حجم الخط"</string>
+	<string name="newtestament">"العهد الجديد"</string>
+	<string name="oldtestament">"العهد القديم"</string>
+	<string name="chapter">"رئيس"</string>
+	<string name="psalm">"مزمور"</string>
+	<string name="chapterchang">"حدد الفصل"</string>
+	<string name="savebookmark">"حفظ هذه الصفحة"</string>
+	<string name="loadbookmark">"تحميل الصفحة"</string>
+	<string name="savechapter">"حفظ الفصل"</string>
+	<string name="savebook">"حفظ المصنف"</string>
+	<string name="savebase">"الحفاظ على قاعدة"</string>
+	<string name="smallfont">"أصغر الخط"</string>
+	<string name="bigfont">"الخط كبيرة"</string>
+	<string name="exportprocess">"ويتم تصدير إلى. TXT الرجاء الانتظار"</string>
+	<string name="newfontsize">"الجديد حجم الخط"</string>
+	<string name="savingbookmark">"المرجعية المحفوظة"</string>
+	<string name="savingbase">"سكليتي قاعدة البيانات المخزنة في"</string>
+	<string name="savingtext">"يتم تخزين النص في"</string>
+	<string name="enterword">"إدخال مصطلح البحث"</string>
+	
+	<string name="findprocess">"البحث الرجاء الانتظار"</string>
+	<string name="findofword">"كلمة البحث"</string>
+	<string name="findresults">"نتائج البحث"</string>
+	<string name="matches">"مباريات"</string>
+	<string name="poem">"آية"</string>
+	<string name="loadprocess">"تحميل الرجاء الانتظار"</string>
+	
+	<string name="searchbutton">"اكتشاف"</string>
+	<string name="backbutton">"ظهر"</string>
+	<string name="forwardbutton">"إلى الأمام"</string>
+	
+	<string name="tosavexml">"حفظ إلى BibleXML"</string>
+	<string name="savingxml">"تنسيق XML الجديد"</string>
+</resources>

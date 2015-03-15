@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"AFBIBLE"</string>
+    <string name="menu_settings">"Instellings"</string>
+    
+    <string name="language">"af"</string>
+    
+	<string name="savingbook">"Werkboek is gered"</string>
+	<string name="biblename">"Bybel"</string>
+	<string name="loadfontsize">"Gelaaide lettergrootte"</string>
+	<string name="defaultfontsize">"Verhoog lettergrootte"</string>
+	<string name="newtestament">"Die Nuwe Testament"</string>
+	<string name="oldtestament">"Die Ou Testament"</string>
+	<string name="chapter">"Hoofstuk"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Kies hoofstuk"</string>
+	<string name="savebookmark">"Hou hierdie bladsy"</string>
+	<string name="loadbookmark">"Laai die bladsy"</string>
+	<string name="savechapter">"Red hoofstuk"</string>
+	<string name="savebook">"Stoor die werkboek"</string>
+	<string name="savebase">"Hou die basis"</string>
+	<string name="smallfont">"Kleiner lettergrootte"</string>
+	<string name="bigfont">"Groot skrif"</string>
+	<string name="exportprocess">"Word uitgevoer na. Txt Wag asseblief"</string>
+	<string name="newfontsize">"Nuwe lettergrootte"</string>
+	<string name="savingbookmark">"boekmerk gered"</string>
+	<string name="savingbase">"SQLite databasis gestoor in"</string>
+	<string name="savingtext">"Die teks is gestoor in"</string>
+	<string name="enterword">"Voer 'n navraag"</string>
+	
+	<string name="findprocess">"Soek Wag asseblief"</string>
+	<string name="findofword">"soek die woord"</string>
+	<string name="findresults">"resultaat"</string>
+	<string name="matches">"wedstryde"</string>
+	<string name="poem">"Gedig"</string>
+	<string name="loadprocess">"laai Wag asseblief"</string>
+	
+	<string name="searchbutton">"vind"</string>
+	<string name="backbutton">"Terug"</string>
+	<string name="forwardbutton">"Vorentoe"</string>
+	
+	<string name="tosavexml">"red BibleXML"</string>
+	<string name="savingxml">"Die nuwe XML-formaat"</string>
+</resources>

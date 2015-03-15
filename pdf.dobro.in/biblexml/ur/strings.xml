@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"URBIBLE"</string>
+    <string name="menu_settings">"تراتیب"</string>
+    
+    <string name="language">"UR"</string>
+    
+	<string name="savingbook">"عملی کتاب محفوظ ہے"</string>
+	<string name="biblename">"انجیل مقدس"</string>
+	<string name="loadfontsize">"بھاری بھرکم فونٹ سائز"</string>
+	<string name="defaultfontsize">"فونٹ سائز میں اضافہ"</string>
+	<string name="newtestament">"نئے عہد نامہ"</string>
+	<string name="oldtestament">"پرانے عہد نامہ"</string>
+	<string name="chapter">"باب"</string>
+	<string name="psalm">"زبور"</string>
+	<string name="chapterchang">"باب منتخب کریں"</string>
+	<string name="savebookmark">"اس صفحے کو محفوظ"</string>
+	<string name="loadbookmark">"پیج ڈاؤن لوڈ،"</string>
+	<string name="savechapter">"باب محفوظ"</string>
+	<string name="savebook">"عملی کتاب محفوظ"</string>
+	<string name="savebase">"بیس محفوظ"</string>
+	<string name="smallfont">"چھوٹے فونٹ"</string>
+	<string name="bigfont">"بڑے فونٹ"</string>
+	<string name="exportprocess">"ہے برآمد کیا ہے. TXT براہ مہربانی انتظار کریں"</string>
+	<string name="newfontsize">"نیا فونٹ سائز"</string>
+	<string name="savingbookmark">"بک مارک محفوظ"</string>
+	<string name="savingbase">"SQLite ڈیٹا بیس میں جمع"</string>
+	<string name="savingtext">"متن میں جمع کیا جاتا ہے"</string>
+	<string name="enterword">"تلاش کی اصطلاح درج کریں"</string>
+	
+	<string name="findprocess">"تلاش براہ مہربانی انتظار کریں"</string>
+	<string name="findofword">"لفظ تلاش کریں"</string>
+	<string name="findresults">"نتائجِ‌تلاش"</string>
+	<string name="matches">"میچ"</string>
+	<string name="poem">"نظم"</string>
+	<string name="loadprocess">"لوڈ کا عمل جاری براہ مہربانی انتظار کریں"</string>
+	
+	<string name="searchbutton">"تلاش"</string>
+	<string name="backbutton">"پیچھے"</string>
+	<string name="forwardbutton">"آگے"</string>
+	
+	<string name="tosavexml">"محفوظ BibleXML"</string>
+	<string name="savingxml">"نئی XML کی شکل"</string>
+</resources>

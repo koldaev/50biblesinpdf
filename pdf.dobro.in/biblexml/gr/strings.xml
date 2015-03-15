@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">GRBIBLE</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    
+    <string name="language">gr</string>
+    
+	<string name="savingbook">Βιβλίο εργασίας αποθηκεύεται</string>
+	<string name="biblename">Αγία Γραφή</string>
+	<string name="loadfontsize">Φορτωμένο το μέγεθος της γραμματοσειράς</string>
+	<string name="defaultfontsize">Αυξήστε το μέγεθος της γραμματοσειράς</string>
+	<string name="newtestament">Καινή Διαθήκη</string>
+	<string name="oldtestament">Παλαιά Διαθήκη</string>
+	<string name="chapter">Κεφάλι</string>
+	<string name="psalm">Ψαλμός</string>
+	<string name="chapterchang">Επιλέξτε το κεφάλαιο</string>
+	<string name="savebookmark">Αποθήκευση αυτής της σελίδας</string>
+	<string name="loadbookmark">Κατεβάστε την σελίδα</string>
+	<string name="savechapter">Αποθήκευση κεφάλαιο</string>
+	<string name="savebook">Αποθηκεύστε το βιβλίο εργασίας</string>
+	<string name="savebase">Κρατήστε τη βάση</string>
+	<string name="smallfont">Μικρότερο μέγεθος γραμματοσειράς</string>
+	<string name="bigfont">Μεγάλη γραμματοσειρά</string>
+	<string name="exportprocess">Είναι εξάγονται. Txt αναμονή nΣυνδέστε τη</string>
+	<string name="newfontsize">Νέα μέγεθος γραμματοσειράς</string>
+	<string name="savingbookmark">σωθεί της σελίδας</string>
+	<string name="savingbase">SQLite βάση δεδομένων αποθηκεύονται σε</string>
+	<string name="savingtext">Το κείμενο αποθηκεύεται στο</string>
+	<string name="enterword">Πληκτρολογήστε έναν όρο αναζήτησης</string>
+	
+	<string name="findprocess">Ψάχνοντας Παρακαλώ περιμένετε</string>
+	<string name="findofword">Αναζήτηση του Word</string>
+	<string name="findresults">Αποτελέσματα αναζήτησης</string>
+	<string name="matches">σπίρτα</string>
+	<string name="poem">στίχος</string>
+	<string name="loadprocess">Φόρτωση Παρακαλώ περιμένετε</string>
+	
+	<string name="searchbutton">Βρίσκω</string>
+	<string name="backbutton">Πίσω</string>
+	<string name="forwardbutton">Προς τα εμπρός</string>
+	
+	<string name="tosavexml">Αποθήκευση στο BibleXML</string>
+	<string name="savingxml">Η νέα μορφή XML</string>
+</resources>

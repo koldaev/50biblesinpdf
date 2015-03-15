@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"BEBIBLE"</string>
+    <string name="menu_settings">"Settings"</string>
+    
+    <string name="language">"be"</string>
+    
+	<string name="savingbook">"Кніга захавана"</string>
+	<string name="biblename">"Біблія"</string>
+	<string name="loadfontsize">"Загружаны памер шрыфта"</string>
+	<string name="defaultfontsize">"Памер шрыфта па змаўчанні"</string>
+	<string name="newtestament">"Новы Запавет"</string>
+	<string name="oldtestament">"Стары Запавет"</string>
+	<string name="chapter">"Кіраўнік"</string>
+	<string name="psalm">"Псальма"</string>
+	<string name="chapterchang">"Выбраць кіраўніка"</string>
+	<string name="savebookmark">"Захаваць старонку"</string>
+	<string name="loadbookmark">"Загрузіць старонку"</string>
+	<string name="savechapter">"Захаваць кіраўніка"</string>
+	<string name="savebook">"Захаваць кнігу"</string>
+	<string name="savebase">"Захаваць базу"</string>
+	<string name="smallfont">"Шрыфт менш"</string>
+	<string name="bigfont">"Шрыфт больш"</string>
+	<string name="exportprocess">"Ідзе экспарт ст. Txt \ r \ nКалі ласка, пачакайце"</string>
+	<string name="newfontsize">"Новы памер шрыфта"</string>
+	<string name="savingbookmark">"Закладка захавана"</string>
+	<string name="savingbase">"База SQLite захавана ў"</string>
+	<string name="savingtext">"Тэкст захаваны ў"</string>
+	<string name="enterword">"Калі ласка, увядзіце слова для пошуку"</string>
+	
+	<string name="findprocess">"Ідзе пошук Калі ласка, пачакайце"</string>
+	<string name="findofword">"Пошук словы"</string>
+	<string name="findresults">"Вынікі пошуку"</string>
+	<string name="matches">"супадзенняў"</string>
+	<string name="poem">"верш"</string>
+	<string name="loadprocess">"Ідзе загрузка Калі ласка, пачакайце"</string>
+	
+	<string name="searchbutton">"Пошук"</string>
+	<string name="backbutton">"Назад"</string>
+	<string name="forwardbutton">"Наперад"</string>
+	
+	<string name="tosavexml">"Захаваць у BibleXML"</string>
+	<string name="savingxml">"Новы фармат XML у"</string>
+</resources>

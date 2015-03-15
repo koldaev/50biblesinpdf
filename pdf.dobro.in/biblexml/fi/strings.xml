@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"FIBIBLE"</string>
+    <string name="menu_settings">"Asetukset"</string>
+    
+    <string name="language">"fi"</string>
+    
+	<string name="savingbook">"Työkirja tallennetaan"</string>
+	<string name="biblename">"Raamattu"</string>
+	<string name="loadfontsize">"Aseta fontin kokoa"</string>
+	<string name="defaultfontsize">"Fontin koon"</string>
+	<string name="newtestament">"Uusi Testamentti"</string>
+	<string name="oldtestament">"Vanha Testamentti"</string>
+	<string name="chapter">"Luku"</string>
+	<string name="psalm">"Psalmi"</string>
+	<string name="chapterchang">"Valitse kappale"</string>
+	<string name="savebookmark">"Tallenna tämä sivu"</string>
+	<string name="loadbookmark">"Lataa sivu"</string>
+	<string name="savechapter">"Tallenna kappale"</string>
+	<string name="savebook">"Tallenna työkirja"</string>
+	<string name="savebase">"Pidä pohja"</string>
+	<string name="smallfont">"Pienempi fontti"</string>
+	<string name="bigfont">"Isolla"</string>
+	<string name="exportprocess">"Viedään. Txt Odota"</string>
+	<string name="newfontsize">"Fonttikoko"</string>
+	<string name="savingbookmark">"Kirjanmerkki tallennetaan"</string>
+	<string name="savingbase">"SQLite tietokanta tallennetaan"</string>
+	<string name="savingtext">"Teksti on tallennettu"</string>
+	<string name="enterword">"Kirjoita hakusana"</string>
+	
+	<string name="findprocess">"Hakeminen Odota"</string>
+	<string name="findofword">"Sanahaku"</string>
+	<string name="findresults">"Hae tulokset"</string>
+	<string name="matches">"tulitikut"</string>
+	<string name="poem">"Runo"</string>
+	<string name="loadprocess">"Ladataan Odota"</string>
+	
+	<string name="searchbutton">"haku"</string>
+	<string name="backbutton">"Edellinen"</string>
+	<string name="forwardbutton">"Eteenpäin"</string>
+	
+	<string name="tosavexml">"Tallenna BibleXML"</string>
+	<string name="savingxml">"Uusi XML-muodossa"</string>
+</resources>

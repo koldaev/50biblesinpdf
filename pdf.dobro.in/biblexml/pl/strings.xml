@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"PLBIBLE"</string>
+    <string name="menu_settings">"Ustawienia"</string>
+    
+    <string name="language">"pl"</string>
+    
+	<string name="savingbook">"Skoroszyt jest zapisywany"</string>
+	<string name="biblename">"Biblia, Pismo Święte"</string>
+	<string name="loadfontsize">"Załaduj rozmiar czcionki"</string>
+	<string name="defaultfontsize">"Zwiększ rozmiar czcionki"</string>
+	<string name="newtestament">"Nowy Testament"</string>
+	<string name="oldtestament">"Stary Testament"</string>
+	<string name="chapter">"Rozdział"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Wybierz rozdział"</string>
+	<string name="savebookmark">"Zapisz tę stronę"</string>
+	<string name="loadbookmark">"Pobierz stronę"</string>
+	<string name="savechapter">"Zapisz rozdział"</string>
+	<string name="savebook">"Zapisz skoroszyt"</string>
+	<string name="savebase">"Zachowaj bazę"</string>
+	<string name="smallfont">"Mniejsza czcionka"</string>
+	<string name="bigfont">"Duża czcionka"</string>
+	<string name="exportprocess">"Jest eksportowane do. Txt Proszę czekać"</string>
+	<string name="newfontsize">"Nowy rozmiar czcionki"</string>
+	<string name="savingbookmark">"Zaznacz zapisywane"</string>
+	<string name="savingbase">"Baza danych SQLite przechowywane w"</string>
+	<string name="savingtext">"Tekst jest przechowywany w"</string>
+	<string name="enterword">"Wpisz szukany termin."</string>
+	
+	<string name="findprocess">"Proszę czekać trwa wyszukiwanie"</string>
+	<string name="findofword">"Wyszukaj słowo"</string>
+	<string name="findresults">"Wyniki wyszukiwania"</string>
+	<string name="matches">"mecze"</string>
+	<string name="poem">"wiersz"</string>
+	<string name="loadprocess">"Ładowanie, proszę czekać"</string>
+	
+	<string name="searchbutton">"Szukaj"</string>
+	<string name="backbutton">"Wstecz"</string>
+	<string name="forwardbutton">"Dalej"</string>
+	
+	<string name="tosavexml">"Zapisz w BibleXML"</string>
+	<string name="savingxml">"Nowy format XML"</string>
+</resources>

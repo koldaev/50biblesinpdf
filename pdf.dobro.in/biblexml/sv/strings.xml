@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"SVBIBLE"</string>
+    <string name="menu_settings">"Inställningar"</string>
+    
+    <string name="language">"sv"</string>
+    
+	<string name="savingbook">"Arbetsboken sparas"</string>
+	<string name="biblename">"Bibeln"</string>
+	<string name="loadfontsize">"Ladda teckenstorlek"</string>
+	<string name="defaultfontsize">"Öka teckenstorlek"</string>
+	<string name="newtestament">"Det Nye Testamente"</string>
+	<string name="oldtestament">"Det Gamle Testamente"</string>
+	<string name="chapter">"Kapitel"</string>
+	<string name="psalm">"Psalms"</string>
+	<string name="chapterchang">"Välj kapitel"</string>
+	<string name="savebookmark">"Spara den här sidan"</string>
+	<string name="loadbookmark">"Ladda sidan"</string>
+	<string name="savechapter">"Spara kapitel"</string>
+	<string name="savebook">"Spara arbetsboken"</string>
+	<string name="savebase">"Håll basen"</string>
+	<string name="smallfont">"Mindre font"</string>
+	<string name="bigfont">"Stor text"</string>
+	<string name="exportprocess">"Exporteras till. Txt Vänta"</string>
+	<string name="newfontsize">"Ny teckenstorlek"</string>
+	<string name="savingbookmark">"Bokmärke sparas"</string>
+	<string name="savingbase">"SQLite databas som lagras i"</string>
+	<string name="savingtext">"Texten lagras i"</string>
+	<string name="enterword">"Ange ett sökord"</string>
+	
+	<string name="findprocess">"Söka Vänta"</string>
+	<string name="findofword">"Word Search"</string>
+	<string name="findresults">"Sökresultat."</string>
+	<string name="matches">"Resultat"</string>
+	<string name="poem">"Poem"</string>
+	<string name="loadprocess">"Laddar, var god vänta......"</string>
+	
+	<string name="searchbutton">"Sök"</string>
+	<string name="backbutton">"Tillbaka"</string>
+	<string name="forwardbutton">"Framåt"</string>
+	
+	<string name="tosavexml">"Spara till BibleXML"</string>
+	<string name="savingxml">"Den nya XML-formatet"</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"DUBIBLE"</string>
+    <string name="menu_settings">"Instellingen"</string>
+    
+    <string name="language">"du"</string>
+    
+	<string name="savingbook">"Werkmap wordt opgeslagen"</string>
+	<string name="biblename">"Bijbel"</string>
+	<string name="loadfontsize">"Geladen lettergrootte"</string>
+	<string name="defaultfontsize">"Vergroot lettergrootte"</string>
+	<string name="newtestament">"Nieuwe Testament"</string>
+	<string name="oldtestament">"Oude Testament"</string>
+	<string name="chapter">"hoofdstuk"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Hoofdstuk selecteren"</string>
+	<string name="savebookmark">"Bewaar deze pagina"</string>
+	<string name="loadbookmark">"Download de pagina"</string>
+	<string name="savechapter">"Opslaan hoofdstuk"</string>
+	<string name="savebook">"Sla de werkmap"</string>
+	<string name="savebase">"Houd de basis"</string>
+	<string name="smallfont">"Kleiner lettertype"</string>
+	<string name="bigfont">"Grote letters"</string>
+	<string name="exportprocess">"Wordt geëxporteerd naar.\r\nTxt moment geduld aub"</string>
+	<string name="newfontsize">"Nieuwe lettergrootte"</string>
+	<string name="savingbookmark">"Bookmark opgeslagen"</string>
+	<string name="savingbase">"SQLite-database opgeslagen in"</string>
+	<string name="savingtext">"De tekst wordt opgeslagen in"</string>
+	<string name="enterword">"Voer een zoekterm in"</string>
+	
+	<string name="findprocess">"Zoeken Even wachten aub"</string>
+	<string name="findofword">"Word Search"</string>
+	<string name="findresults">"Zoekresultaten"</string>
+	<string name="matches">"Wedstrijden"</string>
+	<string name="poem">"Gedicht"</string>
+	<string name="loadprocess">"Bezig met laden. Een ogenblik geduld aub..."</string>
+	
+	<string name="searchbutton">"Vind"</string>
+	<string name="backbutton">"Vorige"</string>
+	<string name="forwardbutton">"Volgende"</string>
+	
+	<string name="tosavexml">"Opslaan in BibleXML"</string>
+	<string name="savingxml">"De nieuwe XML-formaat"</string>
+</resources>

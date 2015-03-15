@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"UKBIBLE"</string>
+    <string name="menu_settings">"Settings"</string>
+    
+    <string name="language">"uk"</string>
+    
+	<string name="savingbook">"Книга збережена"</string>
+	<string name="biblename">"Біблія"</string>
+	<string name="loadfontsize">"Завантажений розмір шрифту"</string>
+	<string name="defaultfontsize">"Розмір шрифта"</string>
+	<string name="newtestament">"Новий Заповіт"</string>
+	<string name="oldtestament">"Старий Заповіт"</string>
+	<string name="chapter">"Глава"</string>
+	<string name="psalm">"Псалом"</string>
+	<string name="chapterchang">"Вибрати главу"</string>
+	<string name="savebookmark">"Зберегти сторінку"</string>
+	<string name="loadbookmark">"Завантажити сторінку"</string>
+	<string name="savechapter">"Зберегти главу"</string>
+	<string name="savebook">"Зберегти книгу"</string>
+	<string name="savebase">"Зберегти базу"</string>
+	<string name="smallfont">"Шрифт менше"</string>
+	<string name="bigfont">"Шрифт більше"</string>
+	<string name="exportprocess">"Йде експорт у. Txt Будь ласка, почекайте"</string>
+	<string name="newfontsize">"Новий розмір шрифту"</string>
+	<string name="savingbookmark">"Закладка збережена"</string>
+	<string name="savingbase">"База SQLite збережена в"</string>
+	<string name="savingtext">"Текст збережений в"</string>
+	<string name="enterword">"Введіть слово для пошуку"</string>
+	
+	<string name="findprocess">"Йде пошук Будь ласка, почекайте"</string>
+	<string name="findofword">"Пошук слова"</string>
+	<string name="findresults">"Результати пошуку"</string>
+	<string name="matches">"збігів"</string>
+	<string name="poem">"вірш"</string>
+	<string name="loadprocess">"Йде завантаження Будь ласка, почекайте"</string>
+	
+	<string name="searchbutton">"Знайти"</string>
+	<string name="backbutton">"Назад"</string>
+	<string name="forwardbutton">"Вперед"</string>
+	
+	<string name="tosavexml">"Зберегти у BibleXML"</string>
+	<string name="savingxml">"Новий формат XML в"</string>
+</resources>

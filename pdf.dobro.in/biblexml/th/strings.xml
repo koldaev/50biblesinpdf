@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"THBIBLE"</string>
+    <string name="menu_settings">"การตั้งค่า"</string>
+    
+    <string name="language">"th"</string>
+    
+	<string name="savingbook">"สมุดงานจะถูกบันทึกไว้"</string>
+	<string name="biblename">"คัมภีร์ไบเบิล"</string>
+	<string name="loadfontsize">"ขนาดตัวอักษรโหลด"</string>
+	<string name="defaultfontsize">"เพิ่มขนาดตัวอักษร"</string>
+	<string name="newtestament">"พันธสัญญาใหม่"</string>
+	<string name="oldtestament">"พันธสัญญาเดิม"</string>
+	<string name="chapter">"บทที่"</string>
+	<string name="psalm">"บทสวด"</string>
+	<string name="chapterchang">"เลือกบทที่"</string>
+	<string name="savebookmark">"บันทึกหน้านี้"</string>
+	<string name="loadbookmark">"ดาวน์โหลดหน้า"</string>
+	<string name="savechapter">"บันทึกบทที่"</string>
+	<string name="savebook">"บันทึกสมุดงาน"</string>
+	<string name="savebase">"รักษาฐาน"</string>
+	<string name="smallfont">"ตัวอักษรขนาดเล็ก"</string>
+	<string name="bigfont">"ตัวอักษรขนาดใหญ่"</string>
+	<string name="exportprocess">"ถูกส่งออกไป txt โปรดรอสักครู่"</string>
+	<string name="newfontsize">"ขนาดตัวอักษรใหม่"</string>
+	<string name="savingbookmark">"ป้ายบันทึก"</string>
+	<string name="savingbase">"ฐานข้อมูล SQLite เก็บไว้ใน"</string>
+	<string name="savingtext">"ข้อความจะถูกเก็บไว้ใน"</string>
+	<string name="enterword">"ป้อนคำค้นหา"</string>
+	
+	<string name="findprocess">"การค้นหาโปรดรอสักครู่"</string>
+	<string name="findofword">"ค้นหาคำ"</string>
+	<string name="findresults">"ผลลัพธ์การค้นหา"</string>
+	<string name="matches">"ไม้ขีด"</string>
+	<string name="poem">"บทกวี"</string>
+	<string name="loadprocess">"กำลังโหลด ... โปรดรอสักครู่"</string>
+	
+	<string name="searchbutton">"หา"</string>
+	<string name="backbutton">"ย้อนกลับ"</string>
+	<string name="forwardbutton">"ถัดไป"</string>
+	
+	<string name="tosavexml">"บันทึก BibleXML"</string>
+	<string name="savingxml">"รูปแบบ XML ใหม่"</string>
+</resources>

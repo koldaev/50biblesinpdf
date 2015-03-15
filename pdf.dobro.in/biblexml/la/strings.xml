@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"LABIBLE"</string>
+    <string name="menu_settings">"Obitus"</string>
+    
+    <string name="language">"la"</string>
+    
+	<string name="savingbook">"Liber salvus"</string>
+	<string name="biblename">"Biblia Sacra"</string>
+	<string name="loadfontsize">"Font magnitudine onusto"</string>
+	<string name="defaultfontsize">"Font magnitudine crescere"</string>
+	<string name="newtestament">"Novum Testamentum"</string>
+	<string name="oldtestament">"Vetus Testamentum"</string>
+	<string name="chapter">"Capitulum"</string>
+	<string name="psalm">"Psalmus"</string>
+	<string name="chapterchang">"Capite lego"</string>
+	<string name="savebookmark">"Praeter hanc paginam"</string>
+	<string name="loadbookmark">"Download page"</string>
+	<string name="savechapter">"Salvum capite"</string>
+	<string name="savebook">"Salvum libro"</string>
+	<string name="savebase">"Salvum basis"</string>
+	<string name="smallfont">"Minor font"</string>
+	<string name="bigfont">"Magnum font"</string>
+	<string name="exportprocess">"Est exportata ad. Txt amabo"</string>
+	<string name="newfontsize">"Font magnitudine novum"</string>
+	<string name="savingbookmark">"Aliquam salvus"</string>
+	<string name="savingbase">"SQLite condita in database"</string>
+	<string name="savingtext">"Text conditur"</string>
+	<string name="enterword">"Intrare quaero term"</string>
+	
+	<string name="findprocess">"Petet amabo"</string>
+	<string name="findofword">"Verbum Quaerere"</string>
+	<string name="findresults">"quaero praecessi"</string>
+	<string name="matches">"Matches"</string>
+	<string name="poem">"Poem"</string>
+	<string name="loadprocess">"Amabo loading"</string>
+	
+	<string name="searchbutton">"Invenies"</string>
+	<string name="backbutton">"Retro"</string>
+	<string name="forwardbutton">"Deinceps"</string>
+	
+	<string name="tosavexml">"Nisi BibleXML"</string>
+	<string name="savingxml">"Novo format pron"</string>
+</resources>

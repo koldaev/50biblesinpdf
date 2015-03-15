@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"BGBIBLE"</string>
+    <string name="menu_settings">"Настройки"</string>
+    
+    <string name="language">"BG"</string>
+    
+	<string name="savingbook">"Книгата се съхранява"</string>
+	<string name="biblename">"Библия"</string>
+	<string name="loadfontsize">"Loaded шрифта"</string>
+	<string name="defaultfontsize">"Размерът на шрифта по подразбиране"</string>
+	<string name="newtestament">"НОВ ЗАВЕТ"</string>
+	<string name="oldtestament">"СТАР ЗАВЕТ"</string>
+	<string name="chapter">"Глава"</string>
+	<string name="psalm">"Псалм"</string>
+	<string name="chapterchang">"Изберете глава"</string>
+	<string name="savebookmark">"Запази тази страница"</string>
+	<string name="loadbookmark">"Изтеглете Page"</string>
+	<string name="savechapter">"Запази глава"</string>
+	<string name="savebook">"Запишете работната книга"</string>
+	<string name="savebase">"Дръжте основата"</string>
+	<string name="smallfont">"Font-малък"</string>
+	<string name="bigfont">"Font повече"</string>
+	<string name="exportprocess">"Има износ. Txt Моля, изчакайте"</string>
+	<string name="newfontsize">"Новият размер на шрифта"</string>
+	<string name="savingbookmark">"Bookmark спасени"</string>
+	<string name="savingbase">"SQLite база данни се съхранява в"</string>
+	<string name="savingtext">"Текстът се съхранява в"</string>
+	<string name="enterword">"Въведете дума за търсене"</string>
+	
+	<string name="findprocess">"Търсене в процес на Моля, изчакайте"</string>
+	<string name="findofword">"Word Търсене"</string>
+	<string name="findresults">"Резултати от търсенето"</string>
+	<string name="matches">"Кибрит"</string>
+	<string name="poem">"стих"</string>
+	<string name="loadprocess">"Зарежда Моля, изчакайте"</string>
+	
+	<string name="searchbutton">"Намирам"</string>
+	<string name="backbutton">"Обратно"</string>
+	<string name="forwardbutton">"Напред"</string>
+	
+	<string name="tosavexml">"Запази BibleXML"</string>
+	<string name="savingxml">"Новият формат XML"</string>
+</resources>

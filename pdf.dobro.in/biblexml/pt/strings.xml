@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">PTBIBLE</string>
+    <string name="menu_settings">Configurações</string>
+    
+    <string name="language">pt</string>
+    
+	<string name="savingbook">Pasta de trabalho é salvo</string>
+	<string name="biblename">Bíblia</string>
+	<string name="loadfontsize">Tamanho da fonte Loaded</string>
+	<string name="defaultfontsize">Aumentar tamanho da fonte</string>
+	<string name="newtestament">Novo Testamento</string>
+	<string name="oldtestament">Velho Testamento</string>
+	<string name="chapter">Cabeça</string>
+	<string name="psalm">Salmo</string>
+	<string name="chapterchang">Selecione o capítulo</string>
+	<string name="savebookmark">Salvar esta página</string>
+	<string name="loadbookmark">Baixe a página</string>
+	<string name="savechapter">Salve capítulo</string>
+	<string name="savebook">Guarde o livro</string>
+	<string name="savebase">Manter a base</string>
+	<string name="smallfont">Fonte menor</string>
+	<string name="bigfont">Fonte grande</string>
+	<string name="exportprocess">É exportado para. Txt Por favor espera</string>
+	<string name="newfontsize">Novo tamanho da fonte</string>
+	<string name="savingbookmark">Bookmark salvo</string>
+	<string name="savingbase">Banco de dados armazenados em SQLite</string>
+	<string name="savingtext">O texto é armazenado em</string>
+	<string name="enterword">Digite um termo de pesquisa</string>
+	
+	<string name="findprocess">Pesquisando Aguarde</string>
+	<string name="findofword">Pesquisar palavra</string>
+	<string name="findresults">Resultados da Pesquisa</string>
+	<string name="matches">fósforos</string>
+	<string name="poem">verso</string>
+	<string name="loadprocess">Carregando Aguarde</string>
+	
+	<string name="searchbutton">Encontrar</string>
+	<string name="backbutton">De volta</string>
+	<string name="forwardbutton">Para a frente</string>
+	
+	<string name="tosavexml">Guardar para BibleXML</string>
+	<string name="savingxml">O novo formato XML</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">ENBIBLE</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="language">en</string>
+    
+	<string name="savingbook">Workbook is saved</string>
+	<string name="biblename">Bible</string>
+	<string name="loadfontsize">Loaded font size</string>
+	<string name="defaultfontsize">Increase font size</string>
+	<string name="newtestament">New Testament</string>
+	<string name="oldtestament">Old Testament</string>
+	<string name="chapter">Chapter</string>
+	<string name="psalm">Psalm</string>
+	<string name="chapterchang">Select chapter</string>
+	<string name="savebookmark">Save this page</string>
+	<string name="loadbookmark">Download the page</string>
+	<string name="savechapter">Save chapter</string>
+	<string name="savebook">Save the workbook</string>
+	<string name="savebase">Keep the base</string>
+	<string name="smallfont">Smaller font</string>
+	<string name="bigfont">Large font</string>
+	<string name="exportprocess">Is exported to. Txt Please wait</string>
+	<string name="newfontsize">New font size</string>
+	<string name="savingbookmark">Bookmark saved</string>
+	<string name="savingbase">SQLite database stored in</string>
+	<string name="savingtext">The text is stored in</string>
+	<string name="enterword">Enter a search term</string>
+	
+	<string name="findprocess">Searching Please wait</string>
+	<string name="findofword">Word Search</string>
+	<string name="findresults">Search Results</string>
+	<string name="matches">matches</string>
+	<string name="poem">Poem</string>
+	<string name="loadprocess">Loading Please wait</string>
+	
+	<string name="searchbutton">Find...</string>
+	<string name="backbutton">Back</string>
+	<string name="forwardbutton">Forward</string>
+	
+	<string name="tosavexml">Save to BibleXML</string>
+	<string name="savingxml">The new XML format</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"VIBIBLE"</string>
+    <string name="menu_settings">"Cài đặt"</string>
+    
+    <string name="language">"vi"</string>
+    
+	<string name="savingbook">"cuốn sách được lưu"</string>
+	<string name="biblename">"Kinh Thánh"</string>
+	<string name="loadfontsize">"Nạp cỡ chữ"</string>
+	<string name="defaultfontsize">"Tăng kích thước chữ"</string>
+	<string name="newtestament">"Tân Ước"</string>
+	<string name="oldtestament">"Kinh thánh Cựu ước"</string>
+	<string name="chapter">"Chương"</string>
+	<string name="psalm">"Thánh thi"</string>
+	<string name="chapterchang">"Chọn chương"</string>
+	<string name="savebookmark">"Lưu trang này"</string>
+	<string name="loadbookmark">"Tải về các trang"</string>
+	<string name="savechapter">"Lưu chương"</string>
+	<string name="savebook">"Lưu bảng tính"</string>
+	<string name="savebase">"Giữ cơ sở"</string>
+	<string name="smallfont">"Nhỏ hơn phông chữ"</string>
+	<string name="bigfont">"Lớn phông chữ"</string>
+	<string name="exportprocess">"Được xuất khẩu sang. Txt Xin vui lòng chờ"</string>
+	<string name="newfontsize">"Kích thước phông chữ mới"</string>
+	<string name="savingbookmark">"đánh dấu lưu"</string>
+	<string name="savingbase">"SQLite cơ sở dữ liệu được lưu trữ trong"</string>
+	<string name="savingtext">"Văn bản được lưu trữ trong"</string>
+	<string name="enterword">"Nhập vào từ khóa tìm kiếm"</string>
+	
+	<string name="findprocess">"Tìm kiếm Xin vui lòng chờ"</string>
+	<string name="findofword">"Từ tìm kiếm"</string>
+	<string name="findresults">"Kết quả T́m kiếm"</string>
+	<string name="matches">"diêm"</string>
+	<string name="poem">"Bài thơ"</string>
+	<string name="loadprocess">"Đang nạp ... Xin vui lòng chờ!"</string>
+	
+	<string name="searchbutton">"Tìm"</string>
+	<string name="backbutton">"Trước"</string>
+	<string name="forwardbutton">"HƯỚNG ĐẾN TƯƠNG LAI"</string>
+	
+	<string name="tosavexml">"Lưu vào BibleXML"</string>
+	<string name="savingxml">"Định dạng XML mới"</string>
+</resources>

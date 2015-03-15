@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"KABIBLE"</string>
+    <string name="menu_settings">"პარამეტრები"</string>
+    
+    <string name="language">"ka"</string>
+    
+	<string name="savingbook">"შრომის წიგნაკი ინახება"</string>
+	<string name="biblename">"ბიბლია"</string>
+	<string name="loadfontsize">"ჩამოტვირთეთ შრიფტი"</string>
+	<string name="defaultfontsize">"გაზრდა შრიფტის ზომა"</string>
+	<string name="newtestament">"ახალი აღთქმა"</string>
+	<string name="oldtestament">"ძველი აღთქმა"</string>
+	<string name="chapter">"თავი"</string>
+	<string name="psalm">"ფსალმუნი"</string>
+	<string name="chapterchang">"თუ გსურთ თავი"</string>
+	<string name="savebookmark">"შენახვა ამ გვერდზე"</string>
+	<string name="loadbookmark">"ჩამოტვირთეთ გვერდი"</string>
+	<string name="savechapter">"გადავარჩინოთ თავი"</string>
+	<string name="savebook">"Save შრომის წიგნაკი"</string>
+	<string name="savebase">"ნუ ბაზა"</string>
+	<string name="smallfont">"მცირე შრიფტი"</string>
+	<string name="bigfont">"დიდი შრიფტის"</string>
+	<string name="exportprocess">"ექსპორტი. Txt მთავარი"</string>
+	<string name="newfontsize">"ახალი შრიფტი"</string>
+	<string name="savingbookmark">"მოვნიშნოთ გადაარჩინა"</string>
+	<string name="savingbase">"SQLite მონაცემთა ბაზაში ინახება"</string>
+	<string name="savingtext">"ტექსტი ინახება"</string>
+	<string name="enterword">"შეიყვანეთ საძიებო ტერმინი"</string>
+	
+	<string name="findprocess">"ეძებს მთავარი"</string>
+	<string name="findofword">"სიტყვების ძებნა"</string>
+	<string name="findresults">"ძიების შედეგები"</string>
+	<string name="matches">"მატჩები"</string>
+	<string name="poem">"პოემა"</string>
+	<string name="loadprocess">"იტვირთება. გთხოვთ დაელოდოთ"</string>
+	
+	<string name="searchbutton">"ძებნა"</string>
+	<string name="backbutton">"უკან"</string>
+	<string name="forwardbutton">"თავდამსხმელი"</string>
+	
+	<string name="tosavexml">"შენახვა BibleXML"</string>
+	<string name="savingxml">"ახალი XML ფორმატში"</string>
+</resources>

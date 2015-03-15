@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"DEBIBLE"</string>
+    <string name="menu_settings">"Einstellungen"</string>
+    
+    <string name="language">"de"</string>
+    
+	<string name="savingbook">"Arbeitsmappe gespeichert"</string>
+	<string name="biblename">"Bibel"</string>
+	<string name="loadfontsize">"Loaded Schriftgröße"</string>
+	<string name="defaultfontsize">"Schrift vergrößern"</string>
+	<string name="newtestament">"Altes Testament"</string>
+	<string name="oldtestament">"Neues Testament"</string>
+	<string name="chapter">"kapitel"</string>
+	<string name="psalm">"Psalmen"</string>
+	<string name="chapterchang">"Kapitel auswählen"</string>
+	<string name="savebookmark">"Diese Seite speichern"</string>
+	<string name="loadbookmark">"Laden Sie die Seite"</string>
+	<string name="savechapter">"Speichern Kapitel"</string>
+	<string name="savebook">"Speichern Sie die Arbeitsmappe"</string>
+	<string name="savebase">"Halten Sie die Basis"</string>
+	<string name="smallfont">"Kleinere Schrift"</string>
+	<string name="bigfont">"Große Schrift"</string>
+	<string name="exportprocess">"Wird exportiert. Txt Bitte warten"</string>
+	<string name="newfontsize">"New Schriftgröße"</string>
+	<string name="savingbookmark">"Bookmark gespeichert"</string>
+	<string name="savingbase">"SQLite-Datenbank gespeichert"</string>
+	<string name="savingtext">"Der Text wird gespeichert"</string>
+	<string name="enterword">"Geben Sie einen Suchbegriff ein"</string>
+	
+	<string name="findprocess">"Suchen Bitte warten"</string>
+	<string name="findofword">"Word Search"</string>
+	<string name="findresults">"Search Results"</string>
+	<string name="matches">"Streichhölzer"</string>
+	<string name="poem">"Vers"</string>
+	<string name="loadprocess">"Loading Bitte warten"</string>
+	
+	<string name="searchbutton">"Finden"</string>
+	<string name="backbutton">"Zurück"</string>
+	<string name="forwardbutton">"Vorwärts"</string>
+	
+	<string name="tosavexml">"Speichern BibleXML"</string>
+	<string name="savingxml">"Das neue XML-Format"</string>
+</resources>

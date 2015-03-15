@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"TLBIBLE"</string>
+    <string name="menu_settings">"pagtatakda"</string>
+    
+    <string name="language">"tl"</string>
+    
+	<string name="savingbook">"aklat ay naka-save"</string>
+	<string name="biblename">"Bibliya"</string>
+	<string name="loadfontsize">"Na-load na laki ng font"</string>
+	<string name="defaultfontsize">"Dagdagan ang laki ng font"</string>
+	<string name="newtestament">"Bagong Tipan"</string>
+	<string name="oldtestament">"Lumang Tipan"</string>
+	<string name="chapter">"Kabanata"</string>
+	<string name="psalm">"Mga Awit"</string>
+	<string name="chapterchang">"Pumili kabanata"</string>
+	<string name="savebookmark">"I-save ang pahinang ito"</string>
+	<string name="loadbookmark">"I-download ang pahina"</string>
+	<string name="savechapter">"I-save ang kabanata"</string>
+	<string name="savebook">"I-save ang mga aklat"</string>
+	<string name="savebase">"Panatilihin ang batayang"</string>
+	<string name="smallfont">"Mas maliit na font"</string>
+	<string name="bigfont">"Malaking Font"</string>
+	<string name="exportprocess">"Ay nai-export na. Txt Mangyaring maghintay"</string>
+	<string name="newfontsize">"Bagong laki ng font"</string>
+	<string name="savingbookmark">"I-bookmark ang naka-save na"</string>
+	<string name="savingbase">"SQLite database na naka-imbak sa"</string>
+	<string name="savingtext">"Ang teksto ay naka-imbak sa"</string>
+	<string name="enterword">"Magpasok ng terminong ginamit sa paghahanap"</string>
+	
+	<string name="findprocess">"Naghahanap Mangyaring maghintay"</string>
+	<string name="findofword">"Paghahanap ng Salita"</string>
+	<string name="findresults">"Mga Resulta sa Paghahanap"</string>
+	<string name="matches">"posporo"</string>
+	<string name="poem">"Tula"</string>
+	<string name="loadprocess">"Nilo-load ang Mangyaring maghintay"</string>
+	
+	<string name="searchbutton">"Hanapin"</string>
+	<string name="backbutton">"Bumalik"</string>
+	<string name="forwardbutton">"pasulong,"</string>
+	
+	<string name="tosavexml">"I-save sa BibleXML"</string>
+	<string name="savingxml">"Ang bagong format ng XML"</string>
+</resources>

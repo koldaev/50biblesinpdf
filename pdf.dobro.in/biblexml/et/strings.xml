@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"ETBIBLE"</string>
+    <string name="menu_settings">"Seaded"</string>
+    
+    <string name="language">"et"</string>
+    
+	<string name="savingbook">"Töövihik salvestatakse"</string>
+	<string name="biblename">"Piibel"</string>
+	<string name="loadfontsize">"Alustada kirjasuuruse"</string>
+	<string name="defaultfontsize">"Suurenda fonti"</string>
+	<string name="newtestament">"Uus testament"</string>
+	<string name="oldtestament">"Vana Testament"</string>
+	<string name="chapter">"Peatükk"</string>
+	<string name="psalm">"Psalm"</string>
+	<string name="chapterchang">"Valige peatükk"</string>
+	<string name="savebookmark">"Salvestage see lehekülg"</string>
+	<string name="loadbookmark">"Lae leht"</string>
+	<string name="savechapter">"Säästa peatükk"</string>
+	<string name="savebook">"Salvestage töövihik"</string>
+	<string name="savebase">"Hoidke alust"</string>
+	<string name="smallfont">"Väiksemad font"</string>
+	<string name="bigfont">"Suur kiri"</string>
+	<string name="exportprocess">"Eksporditakse. Txt Palun oodake"</string>
+	<string name="newfontsize">"Uus kirjasuuruse"</string>
+	<string name="savingbookmark">"Järjehoidja salvestatakse"</string>
+	<string name="savingbase">"SQLite andmebaasi salvestatud"</string>
+	<string name="savingtext">"Tekst on salvestatud"</string>
+	<string name="enterword">"Sisesta otsingusõna"</string>
+	
+	<string name="findprocess">"Otsin Palun oodake"</string>
+	<string name="findofword">"Word Search"</string>
+	<string name="findresults">"Otsingu tulemused"</string>
+	<string name="matches">"tikud"</string>
+	<string name="poem">"Luuletus"</string>
+	<string name="loadprocess">"Laeb, palun oota ..."</string>
+	
+	<string name="searchbutton">"Otsi"</string>
+	<string name="backbutton">"Tagasi"</string>
+	<string name="forwardbutton">"Edasi"</string>
+	
+	<string name="tosavexml">"Salvesta BibleXML"</string>
+	<string name="savingxml">"Uus XML-vormingus"</string>
+</resources>

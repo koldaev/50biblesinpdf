@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KOBIBLE</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="language">ko</string>
+    
+	<string name="savingbook">통합 문서가 저장됩니다</string>
+	<string name="biblename">성경</string>
+	<string name="loadfontsize">로드 글꼴 크기</string>
+	<string name="defaultfontsize">글꼴 크기를 증가</string>
+	<string name="newtestament">구약 성서</string>
+	<string name="oldtestament">신약 성경</string>
+	<string name="chapter">머리</string>
+	<string name="psalm">시</string>
+	<string name="chapterchang">장을 선택</string>
+	<string name="savebookmark">이 페이지를 저장</string>
+	<string name="loadbookmark">페이지를 다운로드</string>
+	<string name="savechapter">장을 저장</string>
+	<string name="savebook">통합 문서를 저장</string>
+	<string name="savebase">베이스를 유지</string>
+	<string name="smallfont">작은 글꼴</string>
+	<string name="bigfont">큰 글꼴</string>
+	<string name="exportprocess">에 수출되고 있습니다. TXT 는 기다려주세요</string>
+	<string name="newfontsize">새로운 글꼴 크기</string>
+	<string name="savingbookmark">저장 즐겨 찾기에 추가</string>
+	<string name="savingbase">SQLite 데이터베이스에 저장</string>
+	<string name="savingtext">텍스트에 저장됩니다</string>
+	<string name="enterword">검색어를 입력</string>
+	
+	<string name="findprocess">기다려주십시오 검색</string>
+	<string name="findofword">단어 검색</string>
+	<string name="findresults">검색 결과</string>
+	<string name="matches">성냥</string>
+	<string name="poem">시</string>
+	<string name="loadprocess">잠시만 기다려주세요 로딩</string>
+	
+	<string name="searchbutton">발견</string>
+	<string name="backbutton">뒤로</string>
+	<string name="forwardbutton">앞으로</string>
+	
+	<string name="tosavexml">BibleXML 에 저장</string>
+	<string name="savingxml">새로운 XML 형식</string>
+</resources>

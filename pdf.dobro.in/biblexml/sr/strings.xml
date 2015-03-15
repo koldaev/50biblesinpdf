@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"SRBIBLE"</string>
+    <string name="menu_settings">"Подешавања"</string>
+    
+    <string name="language">"sr"</string>
+    
+	<string name="savingbook">"Књига је сачувана"</string>
+	<string name="biblename">"Библија"</string>
+	<string name="loadfontsize">"Лоадед величину слова"</string>
+	<string name="defaultfontsize">"Подразумевана величина фонта"</string>
+	<string name="newtestament">"Нови завет"</string>
+	<string name="oldtestament">"Стари завет"</string>
+	<string name="chapter">"Глава"</string>
+	<string name="psalm">"Псалм"</string>
+	<string name="chapterchang">"Изаберите поглавље"</string>
+	<string name="savebookmark">"Сачувајте ову страницу"</string>
+	<string name="loadbookmark">"Преузмите страницу"</string>
+	<string name="savechapter">"Саве поглавље"</string>
+	<string name="savebook">"Сачувајте радну свеску"</string>
+	<string name="savebase">"Држите базу"</string>
+	<string name="smallfont">"Фонт мањи"</string>
+	<string name="bigfont">"Фонт више"</string>
+	<string name="exportprocess">"Гоес извоз тxт Молимо чекања"</string>
+	<string name="newfontsize">"Нова величина"</string>
+	<string name="savingbookmark">"Страница одржава"</string>
+	<string name="savingbase">"СКЛите базе смештен у"</string>
+	<string name="savingtext">"Текст се складишти у"</string>
+	<string name="enterword">"Унесите термин за претрагу"</string>
+	
+	<string name="findprocess">"Претрага у току Молимо ваит"</string>
+	<string name="findofword">"Реч за претрагу"</string>
+	<string name="findresults">"Сеарцх Ресултс"</string>
+	<string name="matches">"Шибице"</string>
+	<string name="poem">"стих"</string>
+	<string name="loadprocess">"Учитавање Молимо сачекајте"</string>
+	
+	<string name="searchbutton">"Наћи"</string>
+	<string name="backbutton">"Назад"</string>
+	<string name="forwardbutton">"Напред"</string>
+	
+	<string name="tosavexml">"Саве BibleXML"</string>
+	<string name="savingxml">"Нови XML формат"</string>
+</resources>

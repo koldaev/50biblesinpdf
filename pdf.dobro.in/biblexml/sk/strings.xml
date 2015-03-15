@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">"SKBIBLE"</string>
+    <string name="menu_settings">"Nastavenie"</string>
+    
+    <string name="language">"sk"</string>
+    
+	<string name="savingbook">"Kniha je uložená"</string>
+	<string name="biblename">"Biblia"</string>
+	<string name="loadfontsize">"Stiahnite si veľkosť písma"</string>
+	<string name="defaultfontsize">"Predvolená veľkosť písma"</string>
+	<string name="newtestament">"Nová Zmluva"</string>
+	<string name="oldtestament">"Stará Zmluva"</string>
+	<string name="chapter">"Kapitola"</string>
+	<string name="psalm">"Žalm"</string>
+	<string name="chapterchang">"Vyberte kapitolu"</string>
+	<string name="savebookmark">"Uložiť stránku"</string>
+	<string name="loadbookmark">"Stiahnite si stránku"</string>
+	<string name="savechapter">"Uložiť kapitola"</string>
+	<string name="savebook">"Uložte zošit"</string>
+	<string name="savebase">"Udržujte základňu"</string>
+	<string name="smallfont">"Písmo menšie"</string>
+	<string name="bigfont">"Písmo viac"</string>
+	<string name="exportprocess">"Goes vývoz. Txt Prosím čakania"</string>
+	<string name="newfontsize">"Nová veľkosť písma"</string>
+	<string name="savingbookmark">"Záložka uložená"</string>
+	<string name="savingbase">"SQLite databáza je uložená v"</string>
+	<string name="savingtext">"Text je uložený v"</string>
+	<string name="enterword">"Zadajte hľadaný výraz"</string>
+	
+	<string name="findprocess">"Prebieha vyhľadávanie Prosím čakať"</string>
+	<string name="findofword">"hľadanie slova"</string>
+	<string name="findresults">"Výsledky vyhľadávania"</string>
+	<string name="matches">"Zápas"</string>
+	<string name="poem">"verš"</string>
+	<string name="loadprocess">"Nahrávam Prosím čakajte"</string>
+	
+	<string name="searchbutton">"Nájsť"</string>
+	<string name="backbutton">"Staré"</string>
+	<string name="forwardbutton">"Vpred"</string>
+	
+	<string name="tosavexml">"Uložiť BibleXML"</string>
+	<string name="savingxml">"Nový formát XML"</string>
+</resources>
